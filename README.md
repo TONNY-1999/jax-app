@@ -1,4 +1,4 @@
-# vivy
+# vivy app(flutter framework)
 
 A new Flutter project.
 
